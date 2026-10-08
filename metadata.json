@@ -1,0 +1,8 @@
+{
+  "name": "centre zirara",
+  "description": "تطبيق إداري لتدبير الحضور والغياب والتأخرات والمخالفات والاستدعاءات بمركز الفرصة الثانية الجيل الجديد زرارة",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
